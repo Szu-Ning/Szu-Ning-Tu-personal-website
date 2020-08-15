@@ -1,0 +1,201 @@
+/* Navbar */
+.navbar-brand{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+/* Introduction */
+
+h1{
+  font-family: 'Source Sans Pro', sans-serif;
+  padding-top: 40px;
+  margin: 300px;
+  margin-left: 200px;
+  font-size: 2rem;
+  line-height:3rem;
+  text-align: center;
+  color: #808080;
+  width: 70%;
+}
+
+.slef-image{
+  width: 60%;
+  margin-top: 150px;
+  margin-left:100px;
+  margin-bottom: 100px;
+  padding-bottom: 0;
+  border-radius: 50%;
+}
+
+/* About me  */
+
+#About-me-section {
+
+}
+
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+  padding-top: 40px;
+  padding-bottom: 80px;
+  margin: 60px;
+  margin-left: 200px;
+  font-size: 1.3rem;
+  line-height:3rem;
+  text-align: center;
+  color: #808080;
+  width: 70%;
+}
+
+h2{
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 30px;
+
+
+}
+
+
+/* Skills $ Abilities */
+
+#Skills-section{
+  padding: 4% 20%;
+  background-color: #f4f4f4;
+  margin-bottom: 100px;
+}
+
+.skills-item{
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.skill-row-one {
+  margin-bottom: 20px;
+}
+
+/* Projects */
+
+#projects-section{
+  text-align: center;
+  padding-top: 5%;
+}
+
+.Tingdog-img{
+  width: 400px;
+  height: 280px;
+  border: 5px solid #888888;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.Dice-Game-img{
+  width: 400px;
+  height: 260px;
+  border: 5px solid #888888;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.Drum-kit-img{
+  width: 400px;
+  border: 5px solid #888888;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.project-container{
+  margin-bottom: 60px;
+}
+
+.project-container:hover .Tingdog-img {
+  opacity: 0.3;
+}
+
+.project-container:hover .Drum-kit-img {
+  opacity: 0.3;
+}
+
+.project-container:hover .Dice-Game-img {
+  opacity: 0.3;
+}
+
+h4{
+  padding: 20px;
+  color: #888888;
+}
+
+
+/* Contact me */
+
+#contact-section{
+  text-align: center;
+
+}
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+	background-color:#f9f9f9;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+  margin: 10px 10px;
+
+
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+	background-color:#e9e9e9;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+p2{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.2rem;
+  text-align: center;
+  color: #808080;
+  width: 80%;
+
+}
+
+
+p3{
+  font-size: 1.5rem;
+  margin-top: 100px;
+  padding-top: 100px;
+  color: #808080;
+}
+
+.Thank{
+  margin-bottom: 100px;
+}
+
+.button{
+  margin-bottom: 20px;
+}
+
+.bottom-container{
+background-color: #E8E4E1;
+text-align: center;
+margin-top: 100px;
+
+}
+
+.copyright{
+  color: #808080;
+  font-size: 0.8rem;
+  padding: 15px 0;
+}
